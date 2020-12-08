@@ -8,11 +8,5 @@ function redirectRepo() {
 
 
 //making the button for the surprise
-const buttonSurprise = document.querySelector(".surprise");
-
-buttonSurprise.onclick = redirectSuprise();
-function redirectSuprise() {
-    window.location.href = "";
-};
 
 
